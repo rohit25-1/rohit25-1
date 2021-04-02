@@ -7,8 +7,6 @@ Here are some ideas to get you started:
 
 ### Github Stats ###
 
-![Rohit's Stats] (https://github-readme-stats.vercel.app/api/top-langs/?username=rohit25-1&show_icons=true&theme=radical)
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohit25-1&count_private=true&show_icons=true&theme=radical)
 
-### Top Languages ####
 
-![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=rohit25-1&show_icons=true&theme=radical)
