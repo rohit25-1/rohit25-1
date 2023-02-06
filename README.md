@@ -1,5 +1,6 @@
 [![](https://img.shields.io/badge/Gmail-rohitdhoni4@gmail.com-blue)](mailto:rohitdhoni4@gmail.com)
-[![Badge](https://vm83248ueip7.runkit.sh)](https://instagram.com/rohit25.1)
+[![](https://img.shields.io/badge/Instagram-%40rohit25.1-red)](https://instagram.com/rohit25.1)
+
 
 
 🛠  Tech Stack
