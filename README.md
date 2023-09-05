@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Gmail-rohitdhoni4@gmail.com-blue)](mailto:rohitsridharan4@gmail.com)
+[![](https://img.shields.io/badge/Gmail-rohitsridharan4@gmail.com-blue)](mailto:rohitsridharan4@gmail.com)
 [![](https://img.shields.io/badge/Instagram-%40rohit25.1-red)](https://instagram.com/rohit25.1)
 
 
